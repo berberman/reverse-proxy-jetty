@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reverse-proxy.iml" filepath="$PROJECT_DIR$/.idea/modules/reverse-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reverse-proxy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reverse-proxy_main.iml" group="reverse-proxy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reverse-proxy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reverse-proxy_test.iml" group="reverse-proxy" />
+    </modules>
+  </component>
+</project>
